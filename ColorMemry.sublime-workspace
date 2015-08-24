@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"matched",
+				"matchedCard1"
+			],
+			[
+				"$scop",
+				"angular: $scope"
+			],
+			[
+				"scop",
+				"angular: scope"
+			],
+			[
+				"$sc",
+				"angular: $scope"
+			],
+			[
+				"ng-co",
+				"ng-controller	AngularJS"
+			],
+			[
+				"contr",
+				"controller	Angular.js"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-app	AngularJS"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"for",
+				"angular.forEach"
+			],
+			[
+				"ang",
+				"angular	Angular.js"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"my",
+				"myController"
+			],
+			[
+				"in",
+				"input"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ColorMemory.html",
+			"settings":
+			{
+				"buffer_size": 4256,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "repos",
+		"selected_items":
+		[
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Package Control: ang",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace"
+	],
+	"file_history":
+	[
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace/ColorMemory.html",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace/ColMem02.html",
+		"/C/Users/Santosh/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace/Sample02.html",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace/Sample02.js",
+		"/C/Users/Santosh/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/Samples/ColorMemory.html",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/Samples/Sample03.html",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/Samples/Sample02.html",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/SubWorkSpace/Sample01.js",
+		"/E/d drive/Santosh/Estuate/MyWork/Angular/Samples/Sample01.html",
+		"/C/Users/Santosh/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/C/Users/Santosh/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/E/d drive/Santosh/Estuate/MyWork/JS/sample01.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\d drive\\Santosh\\Estuate\\MyWork\\Angular\\SubWorkSpace"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ColorMemory.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"angular.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
